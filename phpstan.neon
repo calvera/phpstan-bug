@@ -6,5 +6,7 @@ parameters:
     paths:
         - src
         - tests
+#    scanFiles:
+#        - vendor/symfony/validator/Test/ConstraintValidatorTestCase.php
     bootstrapFiles:
         - vendor/autoload.php
